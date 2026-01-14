@@ -1,10 +1,16 @@
-2026-01-13T23:28:55.274970 - ranimnasser333@gmail.com - 79101 - sent=False
-2026-01-13T23:31:22.930481 - ranimnasser333@gmail.com - 87055 - sent=False
-2026-01-13T23:39:57.969593 - ranimnasser333@gmail.com - 29788 - sent=False
-2026-01-13T23:40:51.457526 - ranimnasser333@gmail.com - 86271 - sent=False
-2026-01-13T23:41:08.144548 - ranimnasser333@gmail.com - 75571 - sent=False
-2026-01-13T23:41:18.681372 - ranimnasser333@gmail.com - 39874 - sent=False
-2026-01-13T23:43:41.273553 - ranimnasser333@gmail.com - 70071 - sent=False
-2026-01-13T23:44:17.601348 - ranimnasser333@gmail.com - 13756 - sent=False
-2026-01-13T23:54:12.423323 - ranimnasser333@gmail.com - 02205 - sent=False
-2026-01-13T23:56:11.076825 - ranimnasser1102@gmail.com - 14843 - sent=False
+2026-01-14T00:02:37.699073 - test@example.com - 17582 - sent=False - attempts=0 - exc=None
+2026-01-14T00:08:12.469298 - ranimnasser333@gmail.com - 16889 - sent=False - attempts=0 - exc=None
+2026-01-14T00:09:55.039698 - ranimnasser333@gmail.com - 61036 - sent=False - attempts=0 - exc=None
+2026-01-14T00:14:38.783099 - destino.ejemplo@test.com - 73100 - sent=False - attempts=0 - exc=None
+2026-01-14T00:16:20.666172 - ranimnasser333@gmail.com - 71163 - sent=False - attempts=0 - exc=None
+2026-01-14T00:22:51.471607 - ranimnasser333@gmail.com - 13413 - sent=False - attempts=0 - exc=None
+2026-01-14T00:37:25.149960 - EVENT:weak_password_attempt - email=test@ejemplo.com - msg=Test weak: faltan criterios
+2026-01-14T01:12:50.212276 - test@example.com - 70044 - sent=False - attempts=0 - exc=None
+2026-01-14T01:18:31.923928 - ranim@example.com - 68621 - sent=False - attempts=0 - exc=None
+2026-01-14T01:20:17.480951 - ranimnasser333@gmail.com - 33128 - sent=False - attempts=0 - exc=None
+2026-01-14T02:03:24.528995 - ranimnasser111@gmail.com - 91266 - sent=False - attempts=0 - exc=None
+2026-01-14T02:06:43.040051 - ranimnasser333@gmail.com - 38823 - sent=False - attempts=0 - exc=None
+2026-01-14T03:14:21.766037 - ranimnasser333@gmail.com - 48046 - sent=False - attempts=0 - exc=None
+2026-01-14T03:15:04.398709 - ranimnasser333@gmail.com - 71626 - sent=False - attempts=0 - exc=None
+2026-01-14T03:15:53.271225 - ranimnasser333@gmail.com - 82060 - sent=False - attempts=0 - exc=None
+2026-01-14T03:18:17.119276 - ranimnasser333@gmail.com - 16444 - sent=False - attempts=0 - exc=None

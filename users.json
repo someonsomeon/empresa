@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "password": "$pbkdf2-sha256$29000$o9Sa8x7j3PvfuxdijBHCmA$jFp6SNMrTpGF9plK7bKSo6Bsu.IzuAhlT7zpEGgkjEw",
+    "email": "admin@example.com"
+  },
+  "ranimnasser333": {
+    "password": "$pbkdf2-sha256$29000$FeK8N8bYG.N8j7HWOqc0pg$D8/LHkScD11yFXOAGuu/mtQEmfvuuNBcn8ji4naaqWE",
+    "email": "ranimnasser333@gmail.com"
+  },
+  "ranim": {
+    "password": "$pbkdf2-sha256$29000$894757xXaq31PgegtHZujQ$54i9OREX/6CJSwo5zv0a0RsaAmyWiyiHQ0aQ4ZZ8TpE",
+    "email": "ranim@example.com"
+  },
+  "u_test": {
+    "password": "$pbkdf2-sha256$29000$nLP2fm8NASCkFOKcUypFqA$ELALqQCpXHHL8LGBbuZ/Mt5jK2VfmhCOqIr/3U7XSxM",
+    "email": "u_test@example.com"
+  },
+  "pou": {
+    "password": "$pbkdf2-sha256$29000$tlZq7d2bkzLGGMN4jxHC.A$yDaSn5evh60fOEOdsvoW.nGKGWAk6.vhjEzQrsEr/6A",
+    "email": "ranimnasser111@gmail.com"
+  },
+  "alae": {
+    "password": "$pbkdf2-sha256$29000$de7937sX4jxn7J3zfk/pnQ$BSJI1nDKNdaykH3axbD23GANSLaL61n9D4E1NUrMZng",
+    "email": "alaeadjamnasser@gmail.com"
+  }
+}
